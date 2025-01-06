@@ -1,12 +1,9 @@
 @inproceedings{REPO011,
     author = "Cheng, Yihua and Zhang, Ziyi and Li, Hanchen and Arapin, Anton and Zhang, Yue and Zhang, Qizheng and Liu, Yuhan and Du, Kuntai and Zhang, Xu and Yan, Francis Y. and Mazumdar, Amrita and Feamster, Nick and Jiang, Junchen",
-    address = "Santa Clara, CA",
     booktitle = "21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24)",
-    isbn = "978-1-939133-39-7",
     month = "April",
     pages = "509--531",
     publisher = "USENIX Association",
     title = "{{GRACE}: {Loss-Resilient} {Real-Time} Video through Neural Codecs}",
-    url = "https://www.usenix.org/conference/nsdi24/presentation/cheng",
     year = "2024"
 }
